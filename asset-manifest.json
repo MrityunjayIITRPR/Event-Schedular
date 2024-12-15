@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Event-Schedular/static/css/main.c4f4d69a.css",
+    "main.js": "/Event-Schedular/static/js/main.001e635b.js",
+    "index.html": "/Event-Schedular/index.html",
+    "static/media/plus.svg": "/Event-Schedular/static/media/plus.040e71cefb5ffdec4fd54e18bd008d7f.svg",
+    "main.c4f4d69a.css.map": "/Event-Schedular/static/css/main.c4f4d69a.css.map",
+    "main.001e635b.js.map": "/Event-Schedular/static/js/main.001e635b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4f4d69a.css",
+    "static/js/main.001e635b.js"
+  ]
+}
